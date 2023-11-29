@@ -13,7 +13,7 @@ public class ClientOper extends Frame {
     public void run() {
         setVisible(true);
         while (isRunning) {
-            // Здесь можно вставить код, но все все равно обрабатывается через события
+
         }
     }
     public ClientOper() {
