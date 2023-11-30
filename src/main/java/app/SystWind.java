@@ -37,7 +37,7 @@ public class SystWind extends JFrame implements ActionListener {
     }
 
     public void addNoteForm(boolean isChange) {
-        setTitle("Форма для заполнения данных абитуриента");
+        setTitle("Форма для заполнения данных работника");
         setLayout(null);
         textFieldLastName = new JTextField();
         textFieldFirstName = new JTextField();
